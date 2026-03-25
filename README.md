@@ -12,4 +12,4 @@ The program takes a password as input and analyzes it based on:
 
 Based on these conditions, it classifies the password as Weak, Medium, or Strong. It also shows details about which conditions are satisfied and which are missing.
 
-I built this project to practice string methods, loops, and conditional statements in Python. 
+ 
